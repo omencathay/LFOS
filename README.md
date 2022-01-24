@@ -1,2 +1,2 @@
 # LFOS
-A MEC distribute OS
+A MEC distribute OS for RISC-V
